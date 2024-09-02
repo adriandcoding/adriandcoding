@@ -2,6 +2,9 @@
 
 ¡Hola! Soy Adrián, un apasionado desarrollador frontend especializado en React. Me encanta crear interfaces de usuario intuitivas y dinámicas que brinden experiencias de usuario excepcionales. 🚀
 
+📫 Contacto
+Correo: theamr91@gmail.com
+
 
 
 <!---
