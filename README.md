@@ -1,4 +1,4 @@
-🌟 [Adrián Martínez] - Desarrollador Frontend React
+🌟 Adrián Martínez - Desarrollador Frontend React
 
 ¡Hola! Soy Adrián, un apasionado desarrollador frontend especializado en React. Me encanta crear interfaces de usuario intuitivas y dinámicas que brinden experiencias de usuario excepcionales. 🚀
 
