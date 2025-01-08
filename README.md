@@ -1,11 +1,11 @@
-# 💫 Sobre mi:
-🌟 **Adrián Martínez** - Desarrollador Frontend<br><br>¡Hola! Soy Adrián, desarrollador frontend. Mi misión es crear interfaces intuitivas y dinámicas que brinden experiencias de usuario excepcionales. 🚀<br><br>📫 **Contacto de Correo**: [theamr91@gmail.com](mailto:theamr91@gmail.com)
-
-
+# 💫 Sobre mí:
+🌟 **Adrián Martínez** - Desarrollador Frontend<br><br>  
+Bienvenido a mi perfil de GitHub. Soy desarrollador frontend especializado en la creación de interfaces web modernas, accesibles y optimizadas para ofrecer experiencias de usuario de alta calidad. Mi enfoque combina una sólida base técnica con principios de diseño centrados en el usuario. 🚀<br><br>  
+📫 **Correo de contacto**: [theamr91@gmail.com](mailto:theamr91@gmail.com)
 
 ---
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adri%C3%A1n-mart%C3%ADnez-ruiz-a8b74b2b4/)
 
 ---
@@ -51,9 +51,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=adriandcoding&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://visitcount.itsvg.in/api?id=adriandcoding&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
