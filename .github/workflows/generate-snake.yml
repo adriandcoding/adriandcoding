@@ -1,1 +1,33 @@
 
+name: Generar Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecutará todos los días a medianoche (UTC)
+  workflow_dispatch: # También podrás ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Descargar tu repositorio
+      - name: Descargar el repositorio
+        uses: actions/checkout@v2
+
+      # 2. Generar la animación del Snake
+      - name: Generar Snake
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: adriandcoding # Cambia esto por tu nombre de usuario en GitHub
+
+      # 3. Guardar el archivo generado
+      - name: Guardar el archivo Snake
+        run: |
+          mkdir -p dist
+          mv snake.svg dist/snake.svg
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Generar animación del Snake"
+          git push
